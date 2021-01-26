@@ -1,2 +1,2 @@
 # Programacio-2
-Exercicis de Pro2 Q1 - UPC FIB
+Exercicis de Programació 2 (PRO2) Q1 - UPC Facultat d'Informàtica de Barcelona (FIB)
